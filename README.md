@@ -1,4 +1,4 @@
-# Image filter recommendation of Instagram posts by Image segmentation 
+# Filter recommendation of Instagram posts by Image segmentation 
 
 Image filter recommendation of Instagram posts by Image segmentation 
 
